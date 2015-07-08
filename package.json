@@ -1,6 +1,6 @@
 {
   "name": "promise-map-object",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple helper function to map an object's values via promises",
   "main": "index.js",
   "scripts": {
