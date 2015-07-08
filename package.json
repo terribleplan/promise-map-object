@@ -1,0 +1,29 @@
+{
+  "name": "promise-map-object",
+  "version": "0.0.1",
+  "description": "A simple helper function to map an object's values via promises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terribleplan/promise-map-object.git"
+  },
+  "keywords": [
+    "promise",
+    "object",
+    "map",
+    "values"
+  ],
+  "author": "Kegan Myers <kegan@keganmyers.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terribleplan/promise-map-object/issues"
+  },
+  "homepage": "https://github.com/terribleplan/promise-map-object",
+  "dependencies": {
+    "lodash": "^3.10.0",
+    "q": "^1.4.1"
+  }
+}
