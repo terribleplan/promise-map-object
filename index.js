@@ -1,4 +1,4 @@
-var lodash = require("lodash");
+var _ = require("lodash");
 var Q = require("q");
 
 function mapObjectPromises(input, func) {
