@@ -9,8 +9,8 @@ Usage
 var pmo = require("promise-map-object");
 
 var a = {
-  foo: {name: "asdf",age: {$gt: 13}},
-  bar: {age:;{$lte: 13}}
+  foo: { name: "asdf", age: {$gt: 13} },
+  bar: { age: {$lte: 13} }
 }
 
 pmo(a, function(query) {
